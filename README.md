@@ -26,6 +26,20 @@ Doom inspired
 
 ## Assets
 
+### Enemies
+
+[CounterStrike Online - Monster Boss "Dione"](https://sketchfab.com/3d-models/counterstrike-online-monster-boss-dione-aed030d0e2614b9bab7d5e1dcac031d7)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/CS%20Dione.png?raw=true)
+
+[CounterStrike Online - Alien Boss "Phobos"](https://sketchfab.com/3d-models/counterstrike-online-alien-boss-phobos-63a5ceb322744b188ac79070aa395e7a)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/CS%20Phobos.png?raw=true)
+
+[CounterStrike Online - Boss "Megalodon"](https://sketchfab.com/3d-models/counterstrike-online-boss-megalodon-b6f90f7922b84935b1a7a0a798eaa37d)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/CS%20Megalodon.png?raw=true)
+
+[Alien Animal Re-Texture-Baked](https://sketchfab.com/3d-models/alien-animal-re-texture-baked-d203fafcc140499c84036c46e5300cdd)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/alien%20animal.png?raw=true)
+
 ### Environemt
 [Perseverance Rover Mars Panorama](https://sketchfab.com/3d-models/perseverance-rover-mars-panorama-ad00a4664cbc45c491d4968109f6079e)
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%203.png?raw=true)
