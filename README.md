@@ -68,3 +68,6 @@ https://cdna.artstation.com/p/assets/images/images/019/373/948/large/laura-elek-
 
 https://truth.bahamut.com.tw/s01/202211/4680a52963c0707e88009d0f070f3e1d.JPG
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/4680a52963c0707e88009d0f070f3e1d.jpg?raw=true)
+
+https://cdna.artstation.com/p/assets/images/images/007/423/228/large/mackay-clark-hud-mission-start.jpg?1506024965
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mackay-clark-hud-mission-start.jpg?raw=true)
