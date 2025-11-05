@@ -33,5 +33,8 @@ Doom inspired
 [Last Moments of Planet Mars](https://sketchfab.com/3d-models/last-moments-of-planet-mars-e09a1b3e237c4cc181b4723743ba68bd)
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%202.png?raw=true)
 
+[009118-1665-mars-hirise-bake-test-005-more-close](https://sketchfab.com/3d-models/009118-1665-mars-hirise-bake-test-005-more-close-6e68304f9b2b4179b2b2440d378bc03f)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%204.png?raw=true)
+
 [Create An Alien Landscape In 5 Minutes - Blender 2.8 Tutorial](https://www.youtube.com/watch?v=ZOXEMMSyZaY)
 ![example 1](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%201.png?raw=true)
