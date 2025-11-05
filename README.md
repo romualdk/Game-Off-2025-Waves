@@ -1,5 +1,7 @@
 # Game Off 2025 Waves
-Entry for Game Off 2025 WAVES
+Entry for Game Off 2025 **WAVES**
+
+https://itch.io/jam/game-off-2025
 
 ## 💡Idea
 
