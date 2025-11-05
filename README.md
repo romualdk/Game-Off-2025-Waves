@@ -23,3 +23,10 @@ Doom inspired
 - Chaingun (gatling gun)
 - Rocket launcher
 - Plasma gun (plasma riffle)
+
+## Assets
+
+### Environemt
+https://www.youtube.com/watch?v=ZOXEMMSyZaY
+
+![example 1](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%201.png?raw=true)
