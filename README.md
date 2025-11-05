@@ -52,3 +52,11 @@ Doom inspired
 
 [Create An Alien Landscape In 5 Minutes - Blender 2.8 Tutorial](https://www.youtube.com/watch?v=ZOXEMMSyZaY)
 ![example 1](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%201.png?raw=true)
+
+## Weapons
+
+[mass effect ultra pack](https://sketchfab.com/3d-models/mass-effect-ultra-pack-0c8d090f5ae443c18771e7f483a83581)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mass%20efect%20weapons%20pack.png?raw=true)
+
+[Gatling Gun](https://sketchfab.com/3d-models/gatling-gun-cca7f67173ee4cd9b0ce3d3329ea19a8)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/gatling%20gun.png?raw=true)
