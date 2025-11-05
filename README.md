@@ -60,3 +60,11 @@ Doom inspired
 
 [Gatling Gun](https://sketchfab.com/3d-models/gatling-gun-cca7f67173ee4cd9b0ce3d3329ea19a8)
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/gatling%20gun.png?raw=true)
+
+## HUD
+
+https://cdna.artstation.com/p/assets/images/images/019/373/948/large/laura-elek-ui-faceoff-design-test-1-0.jpg?1602586673
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/laura-elek-ui-faceoff-design-test-1-0.jpg?raw=true)
+
+https://truth.bahamut.com.tw/s01/202211/4680a52963c0707e88009d0f070f3e1d.JPG
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/4680a52963c0707e88009d0f070f3e1d.jpg?raw=true)
