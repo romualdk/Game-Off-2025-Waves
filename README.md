@@ -27,6 +27,11 @@ Doom inspired
 ## Assets
 
 ### Environemt
-https://www.youtube.com/watch?v=ZOXEMMSyZaY
+[Perseverance Rover Mars Panorama](https://sketchfab.com/3d-models/perseverance-rover-mars-panorama-ad00a4664cbc45c491d4968109f6079e)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%203.png?raw=true)
 
+[Last Moments of Planet Mars](https://sketchfab.com/3d-models/last-moments-of-planet-mars-e09a1b3e237c4cc181b4723743ba68bd)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%202.png?raw=true)
+
+[Create An Alien Landscape In 5 Minutes - Blender 2.8 Tutorial](https://www.youtube.com/watch?v=ZOXEMMSyZaY)
 ![example 1](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%201.png?raw=true)
