@@ -16,9 +16,14 @@ Enemies are alien / zergling type running toward the camp.
 - Demonic or monstrous enemies: Inspired by Doom’s hellish aesthetic.
 
 ## 👽 Enemies
-- Zergling
-- Hydralisk
-- Ultralisk
+- Runner
+  Zergling / Dione asset
+- Walker
+  Hydralisk / Phobos asset
+- Floater
+  Mutalisk / Megalodon asset
+- Smasher
+  Ultralisk / Alien animal asset
 
 ## 🔫 Weapons
 Doom inspired
