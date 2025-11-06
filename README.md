@@ -11,21 +11,21 @@ Inspired by StarCraft's unit diversity, Doom's visceral combat, and Helldivers' 
 
 ## 📖 Story Overview
 
-**Setting:**
+**Setting**
 
 Year 2137. Humanity begins colonizing Mars. The first phase requires securing a location for the base's energy infrastructure. A lone Vanguard Trooper is dropped into hostile territory to protect the Energy Core until reinforcements arrive.
 
-**Premise:**
+**Premise**
 
 The Energy Core is the heart of the operation. It powers the trooper’s shockwave ability and will eventually power the colony. Alien lifeforms, disturbed by human presence, attack in waves. The trooper must survive long enough for the base to be established.
 
 ## 🕹️ Gameplay Mechanics
-**♾️ Core Loop:**
+**♾️ Core Loop**
 - Defend the Energy Core from waves of enemies.
 - Use weapons and shockwave strategically.
 - Survive until the final wave when reinforcements arrive.
 
-**🔫 Weapons:**
+**🔫 Weapons**
 | Name             | Description                                                                   |
 |------------------|-------------------------------------------------------------------------------|
 | Plasma Gun       | Medium damage, high accuracy, good for runners.                               |
@@ -33,7 +33,7 @@ The Energy Core is the heart of the operation. It powers the trooper’s shockwa
 | Rocket Launcher  | High damage, splash effect, ideal for smashers and floaters.                  |
 | Shockwave Attack | Requires full Energy Core charge. Pushes back and damages all nearby enemies. |
 
-**👽 Enemies:**
+**👽 Enemies**
 | Name     | Behavior         | Role             | Notes                          |
 |----------|------------------|------------------| -------------------------------|
 | Runner   | Fast, weak       | Swarm attacker   | Zergling / Dione asset         |
@@ -42,15 +42,61 @@ The Energy Core is the heart of the operation. It powers the trooper’s shockwa
 | Smasher  | Slow, tanky      | Siege unit       | Ultralisk / Alien animal asset |
 
 
-**🪫 Energy Core:**
+**🪫 Energy Core**
 * Generates energy over time.
 * Powers shockwave and player shields.
 * Must be protected at all costs.
 
-**⬆️ Progression:**
+**⬆️ Progression**
 * Waves increase in difficulty.
 * Occasional mini-bosses.
 * Final wave triggers arrival of reinforcements.
+
+## 🚀 Mission 1: “First Drop”
+**🎯 Objective**
+Secure the landing zone and protect the Energy Core from five escalating waves of alien attackers until reinforcements arrive.
+
+**🧍 Player Setup**
+* Starting Gear:
+  * Plasma Gun (default)
+  * Chaingun (unlocked after Wave 2)
+  * Rocket Launcher (unlocked after Wave 4)
+* Abilities:
+  * Shockwave (requires full core charge)
+  * Health: Moderate, with regenerating shield powered by the core
+
+**🧨 Mission Flow**
+* Phase 1: Deployment
+  * Brief cinematic drop sequence
+  * Voice-over briefing: “You are the first. Hold the ground. The future depends on you.”
+* Phase 2: Core Activation
+  * Player activates the Energy Core
+  * Core begins generating energy slowly
+  * Shockwave meter appears
+* Phase 3: Wave Combat
+
+| Wave | Enemies               | Notes                                       |
+|------|-----------------------|---------------------------------------------|
+| 1    | Runners Only          | Tutorial: movement, aiming, plasma gun      |
+| 2    | Walkers + Runners     | Introduces ranged threats, unlocks chaingun |
+| 3    | Floaters + Walkers    | Forces awareness, shockwave tutorial        |
+| 4    | Smahers + mixed       | High pressure, unlocks rocket launcher      |
+| 5    | All types + mini-boss | Final stand, reinforcements arrive at end   |
+
+  * Between waves: brief cooldown, core charges faster
+  * Shockwave becomes essential in Wave 3+
+* Phase 4: Extraction
+  * Dropship arrives
+  * Player must hold position for 30 seconds while reinforcements land
+  * Victory cinematic: “Zone secured. Base construction begins.”
+
+**🧠 Learning Goals**
+- Teach basic controls and weapon switching
+- Introduce enemy types gradually
+- Emphasize shockwave timing and core protection
+- Build emotional tension through isolation and rising stakes
+
+
 
 ## 🎮 Controls
 | Action          | Keyboard                      | Gamepad                   |
