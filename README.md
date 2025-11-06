@@ -17,13 +17,13 @@ Enemies are alien / zergling type running toward the camp.
 
 ## 👽 Enemies
 - Runner
-  Zergling / Dione asset
+  (Zergling / Dione asset)
 - Walker
-  Hydralisk / Phobos asset
+  (Hydralisk / Phobos asset)
 - Floater
-  Mutalisk / Megalodon asset
+  (Mutalisk / Megalodon asset)
 - Smasher
-  Ultralisk / Alien animal asset
+  (Ultralisk / Alien animal asset)
 
 ## 🔫 Weapons
 Doom inspired
