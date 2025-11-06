@@ -96,8 +96,6 @@ Secure the landing zone and protect the Energy Core from five escalating waves o
 - Emphasize shockwave timing and core protection
 - Build emotional tension through isolation and rising stakes
 
-
-
 ## 🎮 Controls
 | Action          | Keyboard                      | Gamepad                   |
 |-----------------|-------------------------------|---------------------------|
@@ -113,6 +111,53 @@ Secure the landing zone and protect the Energy Core from five escalating waves o
 | Plasma Gun      | **1**                         | Xbox **X**                |
 | Chaingun        | **2**                         | Xbox **Y**                |
 | Rocket Launcher | **3**                         | Xbox **B**                |
+
+## 📢 Voice-overs
+
+Delivered by Command AI
+
+### Briefing
+
+- “Vanguard Trooper, you are the tip of the spear.”
+- “Mars is hostile. Unknown lifeforms have already responded to our presence.”
+- “Your mission is simple: protect the Energy Core. It powers your systems—and our future.”
+- “You will be alone. Reinforcements are inbound, but they won’t arrive until the zone is secure.”
+- “Expect resistance. Fast runners. Ranged walkers. Aerial threats. And something bigger.”
+- “Use your weapons wisely. Plasma for precision. Chaingun for suppression. Rockets for devastation.”
+- “The shockwave is your last resort. Let the core charge. Then unleash hell.”
+- “Hold the ground. Hold the core. Humanity is counting on you.”
+- “Mission begins now.”
+
+### Enemy wave alerts
+
+**🌀 Wave Incoming (General)**
+- “Motion detected. Hostiles approaching.”
+- “Brace yourself. They're coming.”
+- “Energy spike detected. Incoming wave.”
+- “Multiple lifeforms converging on your position.”
+
+**🧬 Specific Enemy Types**
+- Runners:
+  * “Fast movers inbound. Stay sharp.”
+  * “Swarm signature detected. Runners approaching.”
+- Walkers:
+  * “Ranged units sighted. Take cover.”
+  * “Walkers advancing. Watch your flanks.”
+- Floaters:
+  * “Aerial contacts incoming. Eyes up.”
+  * “Floaters detected. They're circling overhead.”
+- Smashers:
+  * “Heavy unit inbound. Brace for impact.”
+  * “Smasher approaching. Hit it hard.”
+
+**⚠️ Final Wave / Mini-Boss**
+- “This is it. Final wave incoming.”
+- “Massive lifeform detected. It’s not alone.”
+- “All units converging. Hold the line.”
+
+**🧪 Shockwave Ready**
+- “Core fully charged. Shockwave online.”
+- “Energy threshold reached. Use the shockwave.”
 
 ## Assets
 
