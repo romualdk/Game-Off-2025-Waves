@@ -27,9 +27,24 @@ Enemies are alien / zergling type running toward the camp.
 
 ## 🔫 Weapons
 Doom inspired
-- Chaingun (gatling gun)
+- Plasma gun
+- Chaingun
 - Rocket launcher
-- Plasma gun (plasma riffle)
+- Shockwave
+
+## 🎮 Controls
+- Aim (**Mouse** / **L** - Left stick // Or Right Stick ???)
+- Fire weapon (**LMB** - Left mouse button / **RT** - Right Trigger)
+- Aim weapon (**RMB** - Right mose button / **LT** - Left Trigger Hold)
+- Fire Shockwave (**MMB** - Middle mouse button / **RS** - Right Stick Push)
+- Reload (**R** / **A**)
+- Meele attack (**E** / **RT** - Right Trigger) // When enemy is close
+- Switch weapon (**F** / **RB** - Right Bumper)
+- Next weapon (**Mouse Wheel Up** / **RB** - Right Bumper)
+- Previous weapon (**Mouse Wheel Down** - **LB** - Left Bumper)
+- Plasma gun (**1** / **X**) 
+- Chaingun (**2** / **Y**)
+- Rocket launcher (**3** / **B**)
 
 ## Assets
 
