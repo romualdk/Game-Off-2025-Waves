@@ -20,22 +20,20 @@ Year 2137. Humanity begins colonizing Mars. The first phase requires securing a 
 The Energy Core is the heart of the operation. It powers the trooper’s shockwave ability and will eventually power the colony. Alien lifeforms, disturbed by human presence, attack in waves. The trooper must survive long enough for the base to be established.
 
 ## 🕹️ Gameplay Mechanics
-**Core Loop:**
+**♾️ Core Loop:**
 - Defend the Energy Core from waves of enemies.
 - Use weapons and shockwave strategically.
 - Survive until the final wave when reinforcements arrive.
 
-**Player Abilities:**
-* Weapons:
-  * Plasma Gun: Medium damage, high accuracy, good for runners.
-  * Chaingun: High rate of fire, low accuracy, effective against walkers.
-  * Rocket Launcher: High damage, splash effect, ideal for smashers and floaters.
-  * Shockwave Attack:
-    * Requires full Energy Core charge.
-    * Pushes back and damages all nearby enemies.
-    * Limited use—requires strategic timing.
+**🔫 Weapons:**
+| Name             | Description                                                                   |
+|------------------|-------------------------------------------------------------------------------|
+| Plasma Gun       | Medium damage, high accuracy, good for runners.                               |
+| Changun          | High rate of fire, low accuracy, effective against walkers.                   |
+| Rocket Launcher  | High damage, splash effect, ideal for smashers and floaters.                  |
+| Shockwave Attack | Requires full Energy Core charge. Pushes back and damages all nearby enemies. |
 
-Enemies:
+**👽 Enemies:**
 | Name     | Behavior         | Role             | Notes                          |
 |----------|------------------|------------------| -------------------------------|
 | Runner   | Fast, weak       | Swarm attacker   | Zergling / Dione asset         |
@@ -44,46 +42,15 @@ Enemies:
 | Smasher  | Slow, tanky      | Siege unit       | Ultralisk / Alien animal asset |
 
 
-**Energy Core:**
+**🪫 Energy Core:**
 * Generates energy over time.
 * Powers shockwave and player shields.
 * Must be protected at all costs.
 
-**Progression:**
+**🎚️ Progression:**
 * Waves increase in difficulty.
 * Occasional mini-bosses.
 * Final wave triggers arrival of reinforcements.
-
-
-## Story
-Player is holding stationary position protecting the ground.
-He can be attacked from any direction so he has to look around to spot enemies and shoot them.
-
-OR
-
-There should be something to protect (as in wareframe) and the player has to protect it and he could move around.
-To limit his movement maybe the capsule he is protecting is powering him up?
-
-Maybe he is waiting for the troops that are coming and he was sent as the first unit the make sure the rest of the team can land?
-
-Potential multipler: Multiple players land on the same ground nearby and protect the cores as a team.
-
-## 👽 Enemies
-- Runner
-  (Zergling / Dione asset)
-- Walker
-  (Hydralisk / Phobos asset)
-- Floater
-  (Mutalisk / Megalodon asset)
-- Smasher
-  (Ultralisk / Alien animal asset)
-
-## 🔫 Weapons
-Doom inspired
-- Plasma gun
-- Chaingun
-- Rocket launcher
-- Shockwave
 
 ## 🎮 Controls
 - Rotate (**Mouse** / **L** - Left Stick)
