@@ -15,6 +15,20 @@ Enemies are alien / zergling type running toward the camp.
 - Heavy weaponry: Shotguns, rocket launchers, and chainsaws are staples.
 - Demonic or monstrous enemies: Inspired by Doom’s hellish aesthetic.
 
+
+## Story
+Player is holding stationary position protecting the ground.
+He can be attacked from any direction so he has to look around to spot enemies and shoot them.
+
+OR
+
+There should be something to protect (as in wareframe) and the player has to protect it and he could move around.
+To limit his movement maybe the capsule he is protecting is powering him up?
+
+Maybe he is waiting for the troops that are coming and he was sent as the first unit the make sure the rest of the team can land?
+
+Potential multipler: Multiple players land on the same ground nearby and protect the cores as a team.
+
 ## 👽 Enemies
 - Runner
   (Zergling / Dione asset)
@@ -33,7 +47,8 @@ Doom inspired
 - Shockwave
 
 ## 🎮 Controls
-- Aim (**Mouse** / **L** - Left stick // Or Right Stick ???)
+- Rotate (**Mouse** / **L** - Left Stick)
+- Aim (**Mouse** / **R** - Right Stick)
 - Fire weapon (**LMB** - Left mouse button / **RT** - Right Trigger)
 - Aim weapon (**RMB** - Right mose button / **LT** - Left Trigger Hold)
 - Fire Shockwave (**MMB** - Middle mouse button / **RS** - Right Stick Push)
