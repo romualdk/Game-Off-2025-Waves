@@ -3,17 +3,56 @@ Entry for Game Off 2025 **WAVES**
 
 https://itch.io/jam/game-off-2025
 
-## 💡Idea
+## 🧠 Concept Summary
 
-Defense of the colony on Mars. Similar to Doom VR shooters.
-1st person view of the player stationed at the camp with a view of the planet with enemies coming from the distance.
-Enemies are alien / zergling type running toward the camp.
+A lone elite soldier is deployed to Mars to secure a landing zone for future colonization. The player must defend a vital energy core from relentless waves of alien creatures.
 
-## 📋 Common Features in Doom-style Shooters
-- Wave-based combat: Enemies spawn in waves and charge at the player.
-- Stationary or limited movement: Many VR shooters use teleportation or restrict movement to avoid motion sickness.
-- Heavy weaponry: Shotguns, rocket launchers, and chainsaws are staples.
-- Demonic or monstrous enemies: Inspired by Doom’s hellish aesthetic.
+Inspired by StarCraft's unit diversity, Doom's visceral combat, and Helldivers' tactical survival, this game blends fast-paced shooting with strategic defense.
+
+## 📖 Story Overview
+
+**Setting:**
+
+Year 2137. Humanity begins colonizing Mars. The first phase requires securing a location for the base's energy infrastructure. A lone Vanguard Trooper is dropped into hostile territory to protect the Energy Core until reinforcements arrive.
+
+**Premise:**
+
+The Energy Core is the heart of the operation. It powers the trooper’s shockwave ability and will eventually power the colony. Alien lifeforms, disturbed by human presence, attack in waves. The trooper must survive long enough for the base to be established.
+
+## 🕹️ Gameplay Mechanics
+**Core Loop:**
+- Defend the Energy Core from waves of enemies.
+- Use weapons and shockwave strategically.
+- Survive until the final wave when reinforcements arrive.
+
+**Player Abilities:**
+* Weapons:
+  * Plasma Gun: Medium damage, high accuracy, good for runners.
+  * Chaingun: High rate of fire, low accuracy, effective against walkers.
+  * Rocket Launcher: High damage, splash effect, ideal for smashers and floaters.
+  * Shockwave Attack:
+    * Requires full Energy Core charge.
+    * Pushes back and damages all nearby enemies.
+    * Limited use—requires strategic timing.
+
+Enemies:
+| Name     | Behavior         | Role             | Notes                          |
+|----------|------------------|------------------| -------------------------------|
+| Runner   | Fast, weak       | Swarm attacker   | Zergling / Dione asset         |
+| Walker   | Medium speed     | Ranged attacker  | Hydralisk / Phobos asset       |
+| Floater  | Flying, evasive  | Harassment unit  | Mutalisk / Megalodon asset     |
+| Smasher  | Slow, tanky      | Siege unit       | Ultralisk / Alien animal asset |
+
+
+**Energy Core:**
+* Generates energy over time.
+* Powers shockwave and player shields.
+* Must be protected at all costs.
+
+**Progression:**
+* Waves increase in difficulty.
+* Occasional mini-bosses.
+* Final wave triggers arrival of reinforcements.
 
 
 ## Story
