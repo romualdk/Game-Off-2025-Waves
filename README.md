@@ -29,7 +29,7 @@ The Energy Core is the heart of the operation. It powers the trooper’s shockwa
 | Name             | Description                                                                   |
 |------------------|-------------------------------------------------------------------------------|
 | Plasma Gun       | Medium damage, high accuracy, good for runners.                               |
-| Changun          | High rate of fire, low accuracy, effective against walkers.                   |
+| Chaingun          | High rate of fire, low accuracy, effective against walkers.                   |
 | Rocket Launcher  | High damage, splash effect, ideal for smashers and floaters.                  |
 | Shockwave Attack | Requires full Energy Core charge. Pushes back and damages all nearby enemies. |
 
@@ -47,25 +47,26 @@ The Energy Core is the heart of the operation. It powers the trooper’s shockwa
 * Powers shockwave and player shields.
 * Must be protected at all costs.
 
-**🎚️ Progression:**
+**⬆️ Progression:**
 * Waves increase in difficulty.
 * Occasional mini-bosses.
 * Final wave triggers arrival of reinforcements.
 
 ## 🎮 Controls
-- Rotate (**Mouse** / **L** - Left Stick)
-- Aim (**Mouse** / **R** - Right Stick)
-- Fire weapon (**LMB** - Left mouse button / **RT** - Right Trigger)
-- Aim weapon (**RMB** - Right mose button / **LT** - Left Trigger Hold)
-- Fire Shockwave (**MMB** - Middle mouse button / **RS** - Right Stick Push)
-- Reload (**R** / **A**)
-- Meele attack (**E** / **RT** - Right Trigger) // When enemy is close
-- Switch weapon (**F** / **RB** - Right Bumper)
-- Next weapon (**Mouse Wheel Up** / **RB** - Right Bumper)
-- Previous weapon (**Mouse Wheel Down** - **LB** - Left Bumper)
-- Plasma gun (**1** / **X**) 
-- Chaingun (**2** / **Y**)
-- Rocket launcher (**3** / **B**)
+| Action          | Keyboard                      | Gamepad                   |
+|-----------------|-------------------------------|---------------------------|
+| Rotate          | **Mouse**                     | **L** (Left stick)        |
+| Aim             | **Mouse**                     | **R** (Right stick)       |
+| Fire weapon     | **LMB** (Left mouse button)   | **RT** (Right trigger)    |
+| Aim weapon      | **RMB** (Right mouse button)  | **LT** (Left trigger)     |
+| Fire Shockwave  | **MMB** (Middle mouse button) | **RS** (Right stick Push) |
+| Reload          | **R**                         | Xbox **A**                |
+| Switch weapon   | **F**                         | **RB** (Right bumper)     |
+| Next weapon     | **Mouse Wheel Up**            | **RB** (Right bumper)     |
+| Previous weapon | **Mouse Wheel Down**          | **LB** (Left bumper)      |
+| Plasma Gun      | **1**                         | Xbox **X**                |
+| Chaingun        | **2**                         | Xbox **Y**                |
+| Rocket Launcher | **3**                         | Xbox **B**                |
 
 ## Assets
 
