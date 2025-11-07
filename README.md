@@ -203,7 +203,7 @@ Delivered by Command AI
 https://kenney.nl/assets/particle-pack
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/kenney-particle-pack-preview.png?raw=true)
 
-**Plasma**
+**Plasma Gun**
 
 [https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/doom-eternal-plasma-rifle-mods.jpg](https://www.youtube.com/watch?v=M3JilzkeJX0)
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-plasmagun-optimized.gif)
@@ -212,6 +212,11 @@ https://kenney.nl/assets/particle-pack
 
 https://www.youtube.com/watch?v=K4RiDEI81tI
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-chaingun-optimized.gif?raw=true)
+
+**Rocket Launcher**
+
+https://www.youtube.com/watch?v=H7jOr_nJVWU
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-rocket-launcher-optimized.gif?raw=true)
 
 ## HUD
 
