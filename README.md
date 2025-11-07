@@ -196,6 +196,19 @@ Delivered by Command AI
 [Gatling Gun](https://sketchfab.com/3d-models/gatling-gun-cca7f67173ee4cd9b0ce3d3329ea19a8)
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/gatling%20gun.png?raw=true)
 
+## Projectiles
+
+**Particle Pack**
+
+https://kenney.nl/assets/particle-pack
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/kenney-particle-pack-preview.png?raw=true)
+
+**Plasma**
+
+https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/doom-eternal-plasma-rifle-mods.jpg
+![example](https://raw.githubusercontent.com/romualdk/Game-Off-2025-Waves/refs/heads/main/Doom-Eternal-Baron-and-Plasma-Gun-Cropped.avif)
+
+
 ## HUD
 
 https://cdna.artstation.com/p/assets/images/images/019/373/948/large/laura-elek-ui-faceoff-design-test-1-0.jpg?1602586673
