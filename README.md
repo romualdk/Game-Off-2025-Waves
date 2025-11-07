@@ -222,6 +222,11 @@ https://www.youtube.com/watch?v=K4RiDEI81tI
 https://www.youtube.com/watch?v=H7jOr_nJVWU
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-rocket-launcher-optimized.gif?raw=true)
 
+**Shockwave**
+
+https://www.youtube.com/watch?v=ZAKTxE4VZ1U
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/shockwave-optimized.gif?raw=true)
+
 ## HUD
 
 https://cdna.artstation.com/p/assets/images/images/019/373/948/large/laura-elek-ui-faceoff-design-test-1-0.jpg?1602586673
