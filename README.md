@@ -99,7 +99,7 @@ Secure the landing zone and protect the Energy Core from five escalating waves o
 ## 🎮 Controls
 | Action          | Keyboard                      | Gamepad                   |
 |-----------------|-------------------------------|---------------------------|
-| Rotate          | **A** **D**                   | **L** (Left stick)        |
+| Rotate          | **WSAD**                      | **L** (Left stick)        |
 | Aim             | **Mouse**                     | **R** (Right stick)       |
 | Fire weapon     | **LMB** (Left mouse button)   | **RT** (Right trigger)    |
 | Aim weapon      | **RMB** (Right mouse button)  | **LT** (Left trigger)     |
