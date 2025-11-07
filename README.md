@@ -205,8 +205,8 @@ https://kenney.nl/assets/particle-pack
 
 **Plasma**
 
-https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/doom-eternal-plasma-rifle-mods.jpg
-![example](https://raw.githubusercontent.com/romualdk/Game-Off-2025-Waves/refs/heads/main/Doom-Eternal-Baron-and-Plasma-Gun-Cropped.avif)
+[https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/doom-eternal-plasma-rifle-mods.jpg](https://www.youtube.com/watch?v=M3JilzkeJX0)
+![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-plasmagun-optimized.gif)
 
 **Chaingun**
 
