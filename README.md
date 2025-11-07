@@ -203,6 +203,10 @@ Delivered by Command AI
 https://kenney.nl/assets/particle-pack
 ![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/kenney-particle-pack-preview.png?raw=true)
 
+**Doom Eternal FX Database**
+
+https://www.youtube.com/@doometernalmoddingresource6001/videos
+
 **Plasma Gun**
 
 [https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/doom-eternal-plasma-rifle-mods.jpg](https://www.youtube.com/watch?v=M3JilzkeJX0)
