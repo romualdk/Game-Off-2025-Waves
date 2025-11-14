@@ -1,0 +1,11 @@
+Model Information:
+* title:	TAR-621
+* source:	https://sketchfab.com/3d-models/tar-621-b0dbe9cc146c4a19a0ce61fa6312028d
+* author:	Frostoise (https://sketchfab.com/Frostoise)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TAR-621" (https://sketchfab.com/3d-models/tar-621-b0dbe9cc146c4a19a0ce61fa6312028d) by Frostoise (https://sketchfab.com/Frostoise) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

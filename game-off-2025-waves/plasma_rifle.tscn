@@ -1,0 +1,42 @@
+[gd_scene load_steps=15 format=3 uid="uid://yb45hjubwfx7"]
+
+[ext_resource type="PackedScene" uid="uid://d4dubvkjosvyl" path="res://assets/plasma-rifle-doom-2016/source/plasma rifle.fbx" id="1_ugybw"]
+[ext_resource type="Texture2D" uid="uid://1of14td2v8c" path="res://assets/plasma-rifle-doom-2016/textures/Upper_Base_color.png" id="2_oewfd"]
+[ext_resource type="Texture2D" uid="uid://c6aii3dauu0j4" path="res://assets/plasma-rifle-doom-2016/textures/Upper_Mixed_AO.png" id="3_ctlal"]
+[ext_resource type="Texture2D" uid="uid://cv1dhisqe1kwe" path="res://assets/plasma-rifle-doom-2016/textures/Upper_Emissive.png" id="3_sqrpx"]
+[ext_resource type="Texture2D" uid="uid://c8pk1i8ltiqvj" path="res://assets/plasma-rifle-doom-2016/textures/Upper_Metallic.png" id="4_mh7nq"]
+[ext_resource type="Texture2D" uid="uid://bm3dokofevkni" path="res://assets/plasma-rifle-doom-2016/textures/Upper_Normal_OpenGL.png" id="5_220k2"]
+[ext_resource type="Texture2D" uid="uid://hlu2cmgnxs8f" path="res://assets/plasma-rifle-doom-2016/textures/Upper_Roughness.png" id="6_agmsi"]
+[ext_resource type="Texture2D" uid="uid://crn2fkjnoraf6" path="res://assets/plasma-rifle-doom-2016/textures/Lower_Base_color.png" id="7_220k2"]
+[ext_resource type="Texture2D" uid="uid://cptdq1nokcpd4" path="res://assets/plasma-rifle-doom-2016/textures/Lower_Metallic.png" id="8_agmsi"]
+[ext_resource type="Texture2D" uid="uid://cx46whuwteucp" path="res://assets/plasma-rifle-doom-2016/textures/Lower_Mixed_AO.png" id="9_7mdwf"]
+[ext_resource type="Texture2D" uid="uid://ygpdvsha07qy" path="res://assets/plasma-rifle-doom-2016/textures/Lower_Normal_OpenGL.png" id="9_ctlal"]
+[ext_resource type="Texture2D" uid="uid://dayvxqt2d3wh1" path="res://assets/plasma-rifle-doom-2016/textures/Lower_Roughness.png" id="10_7mdwf"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ctlal"]
+albedo_texture = ExtResource("2_oewfd")
+metallic = 1.0
+metallic_texture = ExtResource("4_mh7nq")
+roughness_texture = ExtResource("6_agmsi")
+emission_enabled = true
+emission_texture = ExtResource("3_sqrpx")
+normal_enabled = true
+normal_texture = ExtResource("5_220k2")
+ao_enabled = true
+ao_texture = ExtResource("3_ctlal")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_nqtkb"]
+albedo_texture = ExtResource("7_220k2")
+metallic = 1.0
+metallic_texture = ExtResource("8_agmsi")
+roughness_texture = ExtResource("10_7mdwf")
+normal_enabled = true
+normal_texture = ExtResource("9_ctlal")
+ao_enabled = true
+ao_texture = ExtResource("9_7mdwf")
+
+[node name="plasma rifle" instance=ExtResource("1_ugybw")]
+
+[node name="Cube_023" parent="." index="0"]
+surface_material_override/0 = SubResource("StandardMaterial3D_ctlal")
+surface_material_override/1 = SubResource("StandardMaterial3D_nqtkb")
