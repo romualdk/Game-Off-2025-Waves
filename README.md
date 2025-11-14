@@ -164,44 +164,44 @@ Delivered by Command AI
 ### Enemies
 
 [CounterStrike Online - Monster Boss "Dione"](https://sketchfab.com/3d-models/counterstrike-online-monster-boss-dione-aed030d0e2614b9bab7d5e1dcac031d7)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/CS%20Dione.png?raw=true)
+![example](design/CS%20Dione.png)
 
 [CounterStrike Online - Alien Boss "Phobos"](https://sketchfab.com/3d-models/counterstrike-online-alien-boss-phobos-63a5ceb322744b188ac79070aa395e7a)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/CS%20Phobos.png?raw=true)
+![example](design/CS%20Phobos.png)
 
 [CounterStrike Online - Boss "Megalodon"](https://sketchfab.com/3d-models/counterstrike-online-boss-megalodon-b6f90f7922b84935b1a7a0a798eaa37d)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/CS%20Megalodon.png?raw=true)
+![example](design/CS%20Megalodon.png)
 
 [Alien Animal Re-Texture-Baked](https://sketchfab.com/3d-models/alien-animal-re-texture-baked-d203fafcc140499c84036c46e5300cdd)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/alien%20animal.png?raw=true)
+![example](design/alien%20animal.png)
 
 ### Environemt
 [Perseverance Rover Mars Panorama](https://sketchfab.com/3d-models/perseverance-rover-mars-panorama-ad00a4664cbc45c491d4968109f6079e)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%203.png?raw=true)
+![example](design/mars%20env%20example%203.png)
 
 [Last Moments of Planet Mars](https://sketchfab.com/3d-models/last-moments-of-planet-mars-e09a1b3e237c4cc181b4723743ba68bd)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%202.png?raw=true)
+![example](design/mars%20env%20example%202.png)
 
 [009118-1665-mars-hirise-bake-test-005-more-close](https://sketchfab.com/3d-models/009118-1665-mars-hirise-bake-test-005-more-close-6e68304f9b2b4179b2b2440d378bc03f)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%204.png?raw=true)
+![example](design/mars%20env%20example%204.png)
 
 [Create An Alien Landscape In 5 Minutes - Blender 2.8 Tutorial](https://www.youtube.com/watch?v=ZOXEMMSyZaY)
-![example 1](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mars%20env%20example%201.png?raw=true)
+![example 1](design/mars%20env%20example%201.png)
 
 ## Weapons
 
 [mass effect ultra pack](https://sketchfab.com/3d-models/mass-effect-ultra-pack-0c8d090f5ae443c18771e7f483a83581)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mass%20efect%20weapons%20pack.png?raw=true)
+![example](design/mass%20efect%20weapons%20pack.png)
 
 [Gatling Gun](https://sketchfab.com/3d-models/gatling-gun-cca7f67173ee4cd9b0ce3d3329ea19a8)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/gatling%20gun.png?raw=true)
+![example](design/gatling%20gun.png)
 
 ## Projectiles
 
 **Particle Pack**
 
 https://kenney.nl/assets/particle-pack
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/kenney-particle-pack-preview.png?raw=true)
+![example](design/kenney-particle-pack-preview.png)
 
 **Doom Eternal FX Database**
 
@@ -210,30 +210,30 @@ https://www.youtube.com/@doometernalmoddingresource6001/videos
 **Plasma Gun**
 
 [https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/doom-eternal-plasma-rifle-mods.jpg](https://www.youtube.com/watch?v=M3JilzkeJX0)
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-plasmagun-optimized.gif)
+![example](design/doom-eternal-plasmagun-optimized.gif)
 
 **Chaingun**
 
 https://www.youtube.com/watch?v=K4RiDEI81tI
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-chaingun-optimized.gif?raw=true)
+![example](design/doom-eternal-chaingun-optimized.gif)
 
 **Rocket Launcher**
 
 https://www.youtube.com/watch?v=H7jOr_nJVWU
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/doom-eternal-rocket-launcher-optimized.gif?raw=true)
+![example](design/doom-eternal-rocket-launcher-optimized.gif)
 
 **Shockwave**
 
 https://www.youtube.com/watch?v=ZAKTxE4VZ1U
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/shockwave-optimized.gif?raw=true)
+![example](design/shockwave-optimized.gif)
 
 ## HUD
 
 https://cdna.artstation.com/p/assets/images/images/019/373/948/large/laura-elek-ui-faceoff-design-test-1-0.jpg?1602586673
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/laura-elek-ui-faceoff-design-test-1-0.jpg?raw=true)
+![example](design/laura-elek-ui-faceoff-design-test-1-0.jpg)
 
 https://truth.bahamut.com.tw/s01/202211/4680a52963c0707e88009d0f070f3e1d.JPG
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/4680a52963c0707e88009d0f070f3e1d.jpg?raw=true)
+![example](design/4680a52963c0707e88009d0f070f3e1d.jpg)
 
 https://cdna.artstation.com/p/assets/images/images/007/423/228/large/mackay-clark-hud-mission-start.jpg?1506024965
-![example](https://github.com/romualdk/Game-Off-2025-Waves/blob/main/mackay-clark-hud-mission-start.jpg?raw=true)
+![example](design/mackay-clark-hud-mission-start.jpg)
